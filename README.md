@@ -1,2 +1,2 @@
-# Belajar Kolaborasi
-Belajar Github di Dicoding sangat menyenangkan!
+# belajar-kolaborasi
+latihan berkolaborasi pada public repository (materi fork
